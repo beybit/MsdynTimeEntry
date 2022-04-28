@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "TimeEntryApp": {
+      "commandName": "Project"
+    }
+  }
+}

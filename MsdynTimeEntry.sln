@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeEntryApp", "TimeEntryApp\TimeEntryApp.csproj", "{BB9B11DA-9E56-4C7E-A331-7C4598A0619D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeEntryApp.Tests", "TimeEntryApp.Tests\TimeEntryApp.Tests.csproj", "{B09AF23C-475E-4525-B382-C4C800EBEDE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB9B11DA-9E56-4C7E-A331-7C4598A0619D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9B11DA-9E56-4C7E-A331-7C4598A0619D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9B11DA-9E56-4C7E-A331-7C4598A0619D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9B11DA-9E56-4C7E-A331-7C4598A0619D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B09AF23C-475E-4525-B382-C4C800EBEDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09AF23C-475E-4525-B382-C4C800EBEDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09AF23C-475E-4525-B382-C4C800EBEDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09AF23C-475E-4525-B382-C4C800EBEDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8373576D-BD8A-4C26-8B79-05E38CB335C3}
+	EndGlobalSection
+EndGlobal
